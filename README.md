@@ -1,2 +1,7 @@
-# my-simple-boilerplate
-html css (bootstrap) boilerplate
+# HW {HW - Psychic-Game}
+The guessing letter game
+
+##Technologies Used
+- HTML
+- CSS [Bootstrap](http://getbootstrap.com/)
+- JavaScript
